@@ -14,7 +14,7 @@
 
 ## Quick start
 
- - Download [dist](/dist/) folder on zip file: [dist.zip](/dist.zip)
+ - Download [dist](/dist/) folder on zip file: [dist.zip](/dist.zip?raw=true)
 
 ## License
 
