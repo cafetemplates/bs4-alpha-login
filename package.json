@@ -1,0 +1,37 @@
+{
+  "name": "bs4-alpha-login",
+  "version": "0.0.1",
+  "description": "",
+  "license": "CC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafetemplates/bs4-alpha-login.git"
+  },
+  "author": [
+    "Fernando Moreira <nandomoreira.me@gmail.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/cafetemplates/bs4-alpha-login/issues"
+  },
+  "homepage": "https://github.com/cafetemplates/bs4-alpha-login#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-combine-mq": "^0.4.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-data": "^1.2.1",
+    "gulp-include": "^2.3.0",
+    "gulp-jsbeautifier": "^2.0.3",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-prettify": "^0.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-size": "^2.1.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-zip": "^3.2.0",
+    "node-bourbon": "^4.2.8"
+  }
+}

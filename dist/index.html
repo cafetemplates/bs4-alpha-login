@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>Boostrap v4-alpha Login box</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/css/main.css"> </head>
+
+  <body class="login">
+    <div class="login-container">
+      <div class="card">
+        <header class="login-header">
+          <h2 class="login-title text-uppercase">Login</h2> </header>
+        <div class="login-content">
+          <form id="login-form" action="/index.html" method="GET" novalidate="">
+            <div class="form-group"> <label for="email">Email</label> <input type="email" class="form-control" name="email" id="email" placeholder="Your email address" required> </div>
+            <div class="form-group"> <label for="password">Password</label> <a href="reset.html" class="forgot-link pull-sm-right">Forgot password?</a> <input type="password" class="form-control" name="password" id="password" placeholder="Your password" required> </div>
+            <div
+              class="form-group checkbox-remember">
+              <div class="checkbox"> <label for="remember">
+              <input class="checkbox" id="remember" type="checkbox"> <span>Remember me</span>
+            </label> </div>
+        </div>
+        <div class="form-group"> <button type="submit" class="btn btn-block btn-success">Login</button> </div>
+        <div class="form-group">
+          <p class="text-muted text-xs-center">Do not have an account? <a href="signup.html">Sign Up!</a></p>
+        </div>
+        </form>
+      </div>
+    </div>
+    </div>
+    <script src="./assets/js/plugins.min.js"></script>
+    <script src="./assets/js/main.js"></script>
+  </body>
+
+</html>
+<!-- by @CafeTemplates -->
