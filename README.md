@@ -2,6 +2,8 @@
 
 ## [Demo](http://nando-experiments.github.io/bs4-alpha-login/)
 
+![Bootstrap v4-alpha - Login template](/screenshot.png)
+
 ## Installation
 
  1. Install globally dependencies: `npm i -g gulp bower browser-sync`
