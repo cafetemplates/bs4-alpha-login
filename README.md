@@ -1,6 +1,6 @@
 # Bootstrap v4-alpha - Login template
 
-## [Demo](https://nandomoreira.me/bs4-alpha-login/)
+## [Demo](http://nando-experiments.github.io/bs4-alpha-login/)
 
 ## Installation
 
