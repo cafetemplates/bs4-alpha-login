@@ -2,7 +2,7 @@
 
 ## [Demo](http://nando-experiments.github.io/bs4-alpha-login/)
 
-![Bootstrap v4-alpha - Login template](/screenshot.png)
+![Bootstrap v4-alpha - Login template](/_screenshot.png)
 
 ## Installation
 
